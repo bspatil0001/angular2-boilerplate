@@ -1,4 +1,4 @@
-# Angular2 BoilerPLate
+# Angular2 BoilerPlate
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.6.
 

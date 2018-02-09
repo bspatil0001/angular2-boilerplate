@@ -1,8 +1,7 @@
 import { Component } from '@angular/core';
 
-
 @Component({
-    templateUrl: './contact.component.html'
+    template: '<h1>First Child</h1>'
 })
 
 export class ContactComponent { }
